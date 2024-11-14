@@ -4,4 +4,7 @@ WebAssembly, abbreviato in Wasm, è un linguaggio di programmazione nato nel 201
 
 ## Cartelle
 
-- `plots`: contiene i .pdf
+- `plots`: contiene i plot dei risultati dei test in formato .pdf
+- `wasm`: contiene tutti i file wasm che possono essere testati
+- `results`: contiene tutti i file in formato .txt con il tempo di esecuzione per ogni file
+- `socket_test`: contiene uno sviluppo futuro che avevo iniziato ma mai concluso, che può essere uno spunto da continuare
